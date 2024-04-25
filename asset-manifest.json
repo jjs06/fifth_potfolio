@@ -1,18 +1,18 @@
 {
   "files": {
     "main.css": "/fifth_potfolio/static/css/main.6c0ac7ca.css",
-    "main.js": "/fifth_potfolio/static/js/main.03aec90d.js",
+    "main.js": "/fifth_potfolio/static/js/main.6507ad26.js",
     "static/js/787.f5c083af.chunk.js": "/fifth_potfolio/static/js/787.f5c083af.chunk.js",
     "static/media/slider_bg1.jpg": "/fifth_potfolio/static/media/slider_bg1.b52fac7e39b4df10336b.jpg",
     "static/media/slider_bg3.jpg": "/fifth_potfolio/static/media/slider_bg3.adb65f2b0a34822328a8.jpg",
     "static/media/slider_bg6.jpg": "/fifth_potfolio/static/media/slider_bg6.682b0699aae8e7ba3c0d.jpg",
     "index.html": "/fifth_potfolio/index.html",
     "main.6c0ac7ca.css.map": "/fifth_potfolio/static/css/main.6c0ac7ca.css.map",
-    "main.03aec90d.js.map": "/fifth_potfolio/static/js/main.03aec90d.js.map",
+    "main.6507ad26.js.map": "/fifth_potfolio/static/js/main.6507ad26.js.map",
     "787.f5c083af.chunk.js.map": "/fifth_potfolio/static/js/787.f5c083af.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.6c0ac7ca.css",
-    "static/js/main.03aec90d.js"
+    "static/js/main.6507ad26.js"
   ]
 }
